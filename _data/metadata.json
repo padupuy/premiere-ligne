@@ -1,0 +1,20 @@
+{
+  "title": "Premiere ligne",
+  "url": "https://premiere-ligne.dev/",
+  "description": "Parlons peu, parlons dev",
+  "feed": {
+    "subtitle": "Parlons peu, parlons dev",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://premiere-ligne.dev/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://premiere-ligne.dev/feed/feed.json"
+  },
+  "author": {
+    "name": "Pierre-Alexandre Dupuy",
+    "link": "https://twitter.com/padupuy",
+    "url": "https://premiere-ligne.dev/about/"
+  }
+}
